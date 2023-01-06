@@ -1,4 +1,4 @@
-package gradle.example
+package gradle.example;
 
 class Main {
   public static void main(String[] args){
